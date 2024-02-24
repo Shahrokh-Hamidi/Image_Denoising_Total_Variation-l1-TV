@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     os.getcwd()
     os.chdir("../image")
-    path = os.path.join('AE_noisy.png')
+    path = os.path.join('noisy_image.png')
     
     img = readImage.read_image(path)
     
