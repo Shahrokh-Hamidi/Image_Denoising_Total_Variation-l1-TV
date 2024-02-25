@@ -6,7 +6,8 @@
 - l1-TV is the solution to the following optimization problem in which the regularization term is the l1 norm of the gradient of the desired image:
 
 
-![image](https://github.com/Shahrokh-Hamidi/Image_Denoising_Total_Variation-l1TV/assets/156338354/54b7f12a-b1b6-4b44-9a5f-2832162693fe)
+![image](https://github.com/Shahrokh-Hamidi/Image_Denoising_Total_Variation-l1-TV/assets/156338354/3b505cea-55bf-4c29-aec9-b7c3d721b14b)
+
 
 - The solution is based on the Euler-Lagrange equation. 
 
