@@ -4,5 +4,13 @@
 
 
 
-https://github.com/Shahrokh-Hamidi/Image-Denoising-/assets/156338354/36e76801-f2a2-4bd5-9563-51782bc8d458
+
+https://github.com/Shahrokh-Hamidi/Image_Denoising_Total_Variation/assets/156338354/15f2cce7-8f4a-42ea-b76a-fb180b934d4f
+
+
+
+
+
+
+https://github.com/Shahrokh-Hamidi/Image_Denoising_Total_Variation/assets/156338354/33d5910b-01a3-4a03-819f-f78990085f99
 
