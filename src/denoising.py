@@ -1,6 +1,5 @@
 # Created by Shahrokh Hamidi
-# PhD., Electrical & Computer Engineering, University of Waterloo
-# Waterloo, ON., Canada
+# PhD., Electrical & Computer Engineering
 
 
 
