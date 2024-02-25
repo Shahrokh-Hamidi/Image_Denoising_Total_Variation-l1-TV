@@ -1,6 +1,7 @@
 - This repository is an implementation of the Total Variation method for image denoising. 
 - The code has been written in python 3.
-- Video 1: image + impulse noise and Video 2: image + Gaussian noise 
+- Video 1: image + impulse noise
+- Video 2: image + Gaussian noise 
 - Run img_denoising_TV.py
 
 
