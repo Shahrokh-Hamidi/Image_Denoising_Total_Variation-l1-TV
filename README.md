@@ -1,5 +1,5 @@
 - This repository is an implementation of the Total Variation (l1-TV) method for image denoising. 
-- The code has been written in python 3.
+- The code has been written in Python3.
 - Video 1: image + impulse noise
 - Video 2: image + Gaussian noise 
 - Run img_denoising_TV.py
